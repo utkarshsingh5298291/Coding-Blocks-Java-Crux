@@ -1,0 +1,23 @@
+package Lecture1;
+
+import java.util.Scanner;
+
+public class Pattern2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		@SuppressWarnings("resource")
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		
+		int nst ; //no. of stars in each row
+		int cst=1;//count of stars
+		
+		while(cst<=nst)
+		{
+			System.out.println("*");
+			cst++;
+		}
+	}
+
+}
