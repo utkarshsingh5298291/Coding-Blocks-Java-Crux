@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Challenge -1/" kind="src" path="CruxOnline/src"/>
+	<classpathentry kind="src" path="CruxOnline/src/Challenge -1"/>
+	<classpathentry kind="output" path="CruxOnline/bin"/>
+</classpath>
